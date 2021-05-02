@@ -1,0 +1,142 @@
+img {
+    width: 300px;
+}
+
+body {
+    text-align: center;
+    font-size: 20px;
+}
+
+
+<html>
+
+<head>
+    <title>Deepak Bakery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<hr>
+<p>A range of Cakesfor every occassion, a superb quality with best price at a wholesale rate.</p>
+<br>
+<hr>
+<h1>Ring Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="IMG-20190713-WA0029.jpg">
+<hr>
+<h1>Choco Delight</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="https://www.kanpurgifts.com/admin/product_images/light-choco-delight-cake.jpg">
+<hr>
+<h1>Unicorn Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="https://i1.fnp.com/images/pr/l/v20200901214050/two-tier-truffle-unicorn-cake-15-kg_1.jpg">
+<hr>
+<h1>Flowers Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="https://www.justbake.in/userfiles/valley-flowers-cake.jpg">
+<hr>
+<h1>Makeup Kit Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="https://www.onlinedelivery.in/images/detailed/29/itled-6.jpg">
+<hr>
+<h1>Ice Cream Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="https://www.tastytweets.in/BackEndImage/ProductImages/cakes-for-kids-perfect-drip-cake-tasty-tweets.jpg">
+<hr>
+<h1>Number Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="https://cdn.shopify.com/s/files/1/1060/3816/products/Race-track-number-cake_185f7c24-e29a-4cdf-a509-0b1efc68b516.jpg?v=1594972805">
+<hr>
+<h1>Doll Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+<img src="https://www.kcbakers.com/wp-content/uploads/2017/07/barbie-girl-cake-007.jpg">
+<hr>
+<h1>Doraemon Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM_o1qGn5FtHNZl86TdcVgncQYsTME73RiSg&usqp=CAU">
+<hr>
+<h1>Anniversary Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="https://4.imimg.com/data4/FS/BI/IOS-15292022/product-500x500.jpeg">
+<hr>
+<h1>Spiderman Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="https://gurgaonbakers.com/wp-content/uploads/2020/10/crawling-spiderman-cake.jpg">
+<hr>
+<h1>Pastry</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="data:image/jpeg;base64,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">
+<hr>
+<h1>Car Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_1000/33684_car-shape-cakes.jpeg">
+<hr>
+<h1>Wedding Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+
+
+<img src="https://images.squarespace-cdn.com/content/v1/55c8d766e4b032ffea951645/1573569140302-JQO4018VTMHMC6G432OX/ke17ZwdGBToddI8pDm48kDPSD27ccUqEAN6RJeRhy9JZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwLBEH0FwsljXSlYAwByWTpsqozSfTqUXDz-FqpNO3wIuSTPhHyI2HzRq9FVUcHp4w/Jess%2Bwedding%2Bcake%2Bfinal4.jpg">
+<hr>
+<h1>Jungle Cake</h1>
+<hr>
+<div class="parallax-inner">
+</div>
+<img src="https://res.giftalove.com/resources/common/giftimages/productimage2/two-tier-stunning-jungle-cake.jpg">
+<p> For Order Call 9810475030
+    Deepak Bakery
+    Vaishali ( Ghaziabad)
+
+    <body>
+</html>
